@@ -1,0 +1,8 @@
+{
+  "name": "tapetes-premium-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Versão clara do catálogo Atelier Trama, com comparação e formulário",
+  "scripts": { "start": "node server.cjs", "dev": "node server.cjs" },
+  "engines": { "node": ">=18" }
+}
